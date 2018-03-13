@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Icon : MonoBehaviour
 { 
+    //Declare Variables
     [SerializeField]
     private GameObject pcInterface;
 
